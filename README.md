@@ -1,2 +1,1 @@
-# Hello-world
-This repository greets the world
+My name is Baynery a i reside in Haiti.
